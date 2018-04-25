@@ -9,6 +9,6 @@ Paint application (JavaFX GUI) that fulfills following functions
 
 * Eraser
 
-* Filling shapes by using recursive DFS flood fill algorithm.
+* Filling shapes by using recursive DFS flood fill algorithm
 
 * Saving image as PNG
