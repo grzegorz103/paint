@@ -1,6 +1,7 @@
 # paint
 Paint application (JavaFX GUI) that fulfills following functions
 
+* Pencil
 * Shapes
   * rectangle
   * elipse
