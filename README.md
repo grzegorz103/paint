@@ -1,13 +1,13 @@
 # paint
 Paint application (JavaFX GUI) that fulfills following functions
 
-*Shapes
+* Shapes
   * rectangle
   * elipse
   * circle
 
-*Eraser
+* Eraser
 
-*Filling function by using recursive DFS flood fill algorithm.
+* Filling function by using recursive DFS flood fill algorithm.
 
-*Saving image as PNG
+* Saving image as PNG
