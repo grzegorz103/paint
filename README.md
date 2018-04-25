@@ -1,4 +1,4 @@
-# paint
+# Paint JavaFX GUI
 Paint application (JavaFX GUI) that fulfills following functions
 
 * Pencil
